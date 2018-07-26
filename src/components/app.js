@@ -36,7 +36,6 @@ export default class App extends Component {
       <div className='grid'>
         <div className="grid_title">Birthday Countdown</div>
         
-        <div className='grid_skew-dark-one-box'></div>
         <div className='grid_skew-dark-two'></div>
         <div className='grid_skew-dark-three'></div>
         
